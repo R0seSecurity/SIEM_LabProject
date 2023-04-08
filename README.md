@@ -4,6 +4,7 @@ Outline: Here, we are going to map the failed remote desktop login attempts usin
 
 **Below are the section we will see:**
 
+
 ## Setup the Azure account.
 
 Link : Azure Trial: [https://azure.microsoft.com/en-us/free/](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGpjNlgtYThTNTNHejFYT3BXX2o5Z0ZSNGxyd3xBQ3Jtc0tuWXF5ZnBxaWM4UlVDVEtyWFNxRXZGSHg5Y3MtUEoyYXJQcEV6OWVCNlEtZ0Z2R3pHSC15ZGo5TG9Fd2NOOFJicFNlMnRGSFdWSFBaNmVudmx0M2V6UDFWUEVSc2RzRzFGTWxHVXdLU3MzdV9ydV9WWQ&q=https%3A%2F%2Fazure.microsoft.com%2Fen-us%2Ffree%2F&v=RoZeVbbZ0o0)
