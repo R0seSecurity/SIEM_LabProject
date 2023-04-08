@@ -14,7 +14,7 @@ Link : Azure Trial: [https://azure.microsoft.com/en-us/free/](https://www.youtub
 There will be 200$ free azure credit which can be used to complete this project. In the end of the project you can delete the resources and use remaining credit for other work.
 
 
-![alt text](https://github.com/R0seSecurity/SIEM_LabProject/blob/main/Images/2.jpg)
+![alt text](https://github.com/R0seSecurity/SIEM_LabProject/blob/main/Images/2)
 
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0a3db643-513b-4eb8-9138-9efbdbf93e05/Untitled.png)
 
