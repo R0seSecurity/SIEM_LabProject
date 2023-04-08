@@ -3,6 +3,8 @@
 Outline: Here, we are going to map the failed remote desktop login attempts using Azure sentinel by writing the script in the powershell and connecting with API to get the latitude and longitude of the location. This API will give the location from where the live failed login attempts occuring. In the end, you will get better picture.
 
 **Below are the section we will see:**
+
+
 ![alt text](https://github.com/R0seSecurity/SIEM_LabProject/blob/main/Images/1.jpg)
 
 ## Setup the Azure account.
